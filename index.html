@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#285AE9">
+  <!-- 16.2 Beta (segurança, OWASP/MDN): só carrega o que vem do próprio site; nada de plugins nem de base externa. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: blob:; style-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Gradua">
+  <meta name="description" content="Gradua: acompanhe sua evolução acadêmica no Inatel, do primeiro semestre até a formatura.">
+  <title>Gradua</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="icones/icone-192.png">
+  <link rel="stylesheet" href="estilos.css?v=35.0-Beta">
+</head>
+<body>
+  <div id="app" aria-live="polite">
+    <div class="abertura"><img src="icones/icone-app.svg" alt="" class="abertura-icone"><p class="logotipo claro">GRADUA</p></div>
+  </div>
+  <noscript>O Gradua precisa de JavaScript ligado no navegador.</noscript>
+  <script src="gradua.js?v=35.0-Beta"></script>
+</body>
+</html>

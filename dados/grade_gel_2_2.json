@@ -1,0 +1,1125 @@
+{
+ "curso": "Engenharia Elétrica",
+ "versao": "GEL 2.2",
+ "observacao": "Currículo Escolar Digital 2.2 (Noturno) do Inatel (inatel.br/estudante/documents/gel-curriculo-digital-2-2.pdf); tipos de requisito do Apêndice 3 do PPC (inatel.br/estudante/documents/ppc-eng-eletrica-1-sem-2026.pdf); conferido com a grade curricular (inatel.br/estudante/documents/grade-curricular-eng-eletrica-curriculo-2.pdf).",
+ "disciplinas": [
+  {
+   "sigla": "A01",
+   "nome": "Introdução à Engenharia",
+   "creditos": 1,
+   "periodo": 1
+  },
+  {
+   "sigla": "C02",
+   "nome": "Algoritmos e Estrutura de Dados I",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "E01",
+   "nome": "Circuitos Elétricos em Corrente Contínua",
+   "creditos": 2,
+   "periodo": 1
+  },
+  {
+   "sigla": "M01",
+   "nome": "Matemática Aplicada à Engenharia",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "M02",
+   "nome": "Álgebra e Geometria Analítica",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "Q01",
+   "nome": "Química e Ciências dos Materiais",
+   "creditos": 2,
+   "periodo": 1
+  },
+  {
+   "sigla": "AT01",
+   "nome": "Atividade Complementar I",
+   "creditos": 1,
+   "periodo": 1
+  },
+  {
+   "sigla": "A03",
+   "nome": "Sistemas Hidro-Pneumáticos",
+   "creditos": 2,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "E02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F01",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "C03",
+   "nome": "Algoritmos e Estrutura de Dados II",
+   "creditos": 2,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E02",
+   "nome": "Circuitos Elétricos em Corrente Alternada",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E04",
+   "nome": "Eletrônica Analógica para Projetos de Fontes de Alimentação",
+   "creditos": 2,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "F01",
+   "nome": "Física Newtoniana Clássica",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "H01",
+   "nome": "Administração",
+   "creditos": 2,
+   "periodo": 2
+  },
+  {
+   "sigla": "M03",
+   "nome": "Cálculo Aplicado a Engenharia I",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "M01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT02",
+   "nome": "Atividade Complementar II",
+   "creditos": 1,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "AT01",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "E05",
+   "nome": "Eletrônica Analógica Transistorizada",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "E04",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E07",
+   "nome": "Eletrônica Digital Básica",
+   "creditos": 2,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F02",
+   "nome": "Física Ondulatória, Óptica e Termodinâmica",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "F01",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F05",
+   "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+   "creditos": 2,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "F01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "H03",
+   "nome": "Humanidades, Ciências Sociais e Cidadania",
+   "creditos": 4,
+   "periodo": 3
+  },
+  {
+   "sigla": "M04",
+   "nome": "Cálculo Aplicado a Engenharia II",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT03",
+   "nome": "Atividade Complementar III",
+   "creditos": 1,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "AT01",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT02",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "E06",
+   "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "E04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "E05",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E08",
+   "nome": "Eletrônica Digital Aplicada a Contadores e Sequenciadores",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "E07",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F03",
+   "nome": "Física Aplicada na Eletricidade e Eletromagnetismo",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "M02",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "F02",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "G04",
+   "nome": "Fundamentos de Gestão de Projetos",
+   "creditos": 1,
+   "periodo": 4
+  },
+  {
+   "sigla": "M05",
+   "nome": "Cálculo Aplicado a Séries e Equações Diferenciais",
+   "creditos": 4,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "M07",
+   "nome": "Sinais e Sistemas",
+   "creditos": 4,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "M05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M04",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "AT04",
+   "nome": "Atividade Complementar IV",
+   "creditos": 1,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "AT02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A04",
+   "nome": "Circuitos Trifásicos e Magnéticos",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "F06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "E03",
+   "nome": "Circuitos Elétricos com Aplicação em Filtros",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "E02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E09",
+   "nome": "Sistemas Microcontrolados e Microprocessados",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "E08",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "E07",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "F04",
+   "nome": "Física Moderna e Quântica",
+   "creditos": 1,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "F03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "F06",
+   "nome": "Eletromagnetismo",
+   "creditos": 3,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "F03",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M04",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "M08",
+   "nome": "Probabilidade e Processos Estocásticos",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "M07",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M04",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT05",
+   "nome": "Atividade Complementar V",
+   "creditos": 1,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "AT03",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT04",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A02",
+   "nome": "Controle de Sistemas Dinâmicos",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "M07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "E03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "A05",
+   "nome": "Instrumentação Industrial",
+   "creditos": 6,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "E06",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "A06",
+   "nome": "Máquinas e Comandos Elétricos",
+   "creditos": 6,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "A04",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "M06",
+   "nome": "Cálculo Numérico e Estatística",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T02",
+   "nome": "Redes de Dados I",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "C03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "AT06",
+   "nome": "Atividade Complementar VI",
+   "creditos": 1,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "AT04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT05",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A07",
+   "nome": "Controladores Lógicos Programáveis",
+   "creditos": 4,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "A08",
+   "nome": "Sistemas de Controle Digital",
+   "creditos": 2,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A02",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "A10",
+   "nome": "Eletrônica de Potência",
+   "creditos": 6,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "A11",
+   "nome": "Sistemas Supervisórios para Automação e Elétrica",
+   "creditos": 2,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A07",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "C22",
+   "nome": "Inteligência Artificial",
+   "creditos": 4,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "L01",
+   "nome": "Análise de Sistemas Elétricos",
+   "creditos": 2,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "A04",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "E03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT07",
+   "nome": "Atividade Complementar VII",
+   "creditos": 1,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "AT05",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT06",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A16",
+   "nome": "Instalações Elétricas",
+   "creditos": 4,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "E04",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M06",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "H02",
+   "nome": "Economia",
+   "creditos": 2,
+   "periodo": 8
+  },
+  {
+   "sigla": "L02",
+   "nome": "Transmissão e Distribuição de Energia Elétrica",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L03",
+   "nome": "Geração de Energia Elétrica",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L04",
+   "nome": "Proteção de Sistemas Elétricos",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L05",
+   "nome": "Qualidade de Energia Elétrica",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L06",
+   "nome": "Subestações Elétricas",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L08",
+   "nome": "Disciplina Eletiva I",
+   "creditos": 2,
+   "periodo": 8
+  },
+  {
+   "sigla": "AT08",
+   "nome": "Atividade Complementar VIII",
+   "creditos": 1,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "AT06",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT07",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A17",
+   "nome": "Tópicos Especiais",
+   "creditos": 2,
+   "periodo": 9,
+   "requisitos": [
+    {
+     "sigla": "A08",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "H01",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "A07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "C03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "EST1",
+   "nome": "Estágio Supervisionado",
+   "creditos": 0,
+   "periodo": 9
+  },
+  {
+   "sigla": "H04",
+   "nome": "Ciências do Ambiente",
+   "creditos": 4,
+   "periodo": 9
+  },
+  {
+   "sigla": "L07",
+   "nome": "Condicionamento de Energia Elétrica",
+   "creditos": 2,
+   "periodo": 9,
+   "requisitos": [
+    {
+     "sigla": "A06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "L09",
+   "nome": "Disciplina Eletiva II",
+   "creditos": 2,
+   "periodo": 9
+  },
+  {
+   "sigla": "AT09",
+   "nome": "Atividade Complementar IX",
+   "creditos": 1,
+   "periodo": 9,
+   "requisitos": [
+    {
+     "sigla": "AT07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A18",
+   "nome": "Manutenção Industrial, Normalização e Certificações",
+   "creditos": 3,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "M06",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "TCC",
+   "nome": "Trabalho de Conclusão de Curso I",
+   "creditos": 2,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "A17",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A10",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A11",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "Q01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "G04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A16",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C22",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "L04",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "AT10",
+   "nome": "Atividade Complementar X",
+   "creditos": 1,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT09",
+     "tipo": "CO"
+    }
+   ]
+  }
+ ]
+}

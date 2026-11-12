@@ -1,0 +1,77 @@
+<!doctype html>
+<!-- Página de download do app Android (Gradua). Modelo preenchido por publicar-web.sh: 35.0 Beta e 2,4 MB. -->
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#285AE9">
+  <title>Gradua para Android</title>
+  <link rel="icon" type="image/png" href="../icones/icone-192.png">
+  <style>
+    :root {
+      --primaria: #285AE9; --sobre-primaria: #FFFFFF; --ouro: #FDC522;
+      --fundo: #F8F9FF; --texto: #1A1C22; --texto-var: #44474F; --cartao: #FFFFFF; --contorno: #DDE1EC;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --fundo: #111318; --texto: #E2E2E9; --texto-var: #C4C6D0; --cartao: #1D2024; --contorno: #33363D; }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--fundo); color: var(--texto);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.5;
+    }
+    header { background: var(--primaria); color: var(--sobre-primaria); text-align: center; padding: 32px 16px 28px; }
+    header img { width: 88px; height: 88px; border-radius: 22px; }
+    .logotipo { font-weight: 800; letter-spacing: 0.08em; font-size: 28px; margin: 12px 0 0; }
+    header p { margin: 4px 0 0; opacity: 0.9; }
+    main { max-width: 560px; margin: 0 auto; padding: 24px 16px 40px; }
+    .baixar {
+      display: block; text-align: center; background: var(--primaria); color: var(--sobre-primaria);
+      text-decoration: none; font-weight: 700; font-size: 18px; padding: 16px; border-radius: 28px;
+    }
+    .baixar:focus-visible { outline: 3px solid var(--ouro); outline-offset: 3px; }
+    .info { text-align: center; color: var(--texto-var); font-size: 14px; margin: 10px 0 24px; }
+    .cartao { background: var(--cartao); border: 1px solid var(--contorno); border-radius: 16px; padding: 16px 20px; margin-bottom: 16px; }
+    h2 { font-size: 18px; margin: 0 0 8px; }
+    ol { margin: 0; padding-left: 22px; }
+    li { margin: 6px 0; }
+    .aviso { border-left: 4px solid var(--ouro); }
+    a { color: var(--primaria); }
+    @media (prefers-color-scheme: dark) { a:not(.baixar) { color: #B5C4FF; } }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="../icones/icone-app.svg" alt="">
+    <p class="logotipo" aria-label="Gradua">GRADUA</p>
+    <p>Acompanhe sua evolução acadêmica no Inatel</p>
+  </header>
+  <main>
+    <a class="baixar" href="Gradua.apk" download="Gradua.apk">Baixar o Gradua para Android</a>
+    <p class="info">Versão 35.0 Beta · 2,4 MB · Android 7 ou mais novo</p>
+
+    <section class="cartao">
+      <h2>Como instalar</h2>
+      <ol>
+        <li>Toque em <b>Baixar o Gradua para Android</b> e espere o download terminar.</li>
+        <li>Abra o arquivo <b>Gradua.apk</b> (na notificação ou na pasta Downloads).</li>
+        <li>Se o celular pedir, toque em <i>Configurações</i>, ative <i>“Permitir desta fonte”</i> e volte.</li>
+        <li>Toque em <i>Instalar</i> e depois em <i>Abrir</i>. Se aparecer um aviso do Play Protect, toque em <i>“Instalar mesmo assim”</i>.</li>
+      </ol>
+    </section>
+
+    <section class="cartao aviso">
+      <h2>Para atualizar</h2>
+      <p style="margin:0">Baixe de novo por este link e instale <b>por cima</b> do app que você já tem: seus dados continuam. Não desinstale antes, senão as marcações se perdem.</p>
+    </section>
+
+    <section class="cartao">
+      <h2>Tem iPhone?</h2>
+      <p style="margin:0">Use a versão web: abra <a href="../iphone/">eduardojavor-bit.github.io/gradua/iphone</a> no Safari e adicione à Tela de Início.</p>
+    </section>
+
+    <p class="info">O aviso na instalação aparece porque o app não veio da Play Store. Funciona sem internet e sem login; os dados ficam só no seu celular.</p>
+  </main>
+</body>
+</html>

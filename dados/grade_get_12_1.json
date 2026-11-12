@@ -1,0 +1,1165 @@
+{
+ "curso": "Engenharia de Telecomunicações",
+ "versao": "GET 12.1",
+ "observacao": "Currículo Escolar Digital 12.1 (Integral) do Inatel (inatel.br/estudante/documents/get-curriculo-digital-12-1.pdf); tipos de requisito do Apêndice 3 do PPC (inatel.br/estudante/documents/ppc-eng-telecom-1-sem-2026.pdf) (4 requisitos fora do quadro do PPC, tratados como Pré I); conferido com a grade curricular (inatel.br/estudante/documents/grade-curricular-eng-telecom-curriculo-12.pdf).",
+ "disciplinas": [
+  {
+   "sigla": "C02",
+   "nome": "Algoritmos e Estrutura de Dados I",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "E01",
+   "nome": "Circuitos Elétricos em Corrente Contínua",
+   "creditos": 2,
+   "periodo": 1
+  },
+  {
+   "sigla": "M01",
+   "nome": "Matemática Aplicada à Engenharia",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "M02",
+   "nome": "Álgebra e Geometria Analítica",
+   "creditos": 4,
+   "periodo": 1
+  },
+  {
+   "sigla": "Q01",
+   "nome": "Química e Ciências dos Materiais",
+   "creditos": 2,
+   "periodo": 1
+  },
+  {
+   "sigla": "T01",
+   "nome": "Introdução à Engenharia",
+   "creditos": 1,
+   "periodo": 1
+  },
+  {
+   "sigla": "AT01",
+   "nome": "Atividade Complementar I",
+   "creditos": 1,
+   "periodo": 1
+  },
+  {
+   "sigla": "C03",
+   "nome": "Algoritmos e Estrutura de Dados II",
+   "creditos": 2,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E02",
+   "nome": "Circuitos Elétricos em Corrente Alternada",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E04",
+   "nome": "Eletrônica Analógica para Projetos de Fontes de Alimentação",
+   "creditos": 2,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "F01",
+   "nome": "Física Newtoniana Clássica",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "H03",
+   "nome": "Humanidades, Ciências Sociais e Cidadania",
+   "creditos": 4,
+   "periodo": 2
+  },
+  {
+   "sigla": "M03",
+   "nome": "Cálculo Aplicado à Engenharia I",
+   "creditos": 4,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "M01",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT02",
+   "nome": "Atividade Complementar II",
+   "creditos": 1,
+   "periodo": 2,
+   "requisitos": [
+    {
+     "sigla": "AT01",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "C06",
+   "nome": "Programação Orientada a Objetos com Java",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "C03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E05",
+   "nome": "Eletrônica Analógica Transistorizada",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "E04",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E07",
+   "nome": "Eletrônica Digital Básica",
+   "creditos": 2,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "E01",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F02",
+   "nome": "Física Ondulatória, Óptica e Termodinâmica",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "F01",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "M04",
+   "nome": "Cálculo Aplicado à Engenharia II",
+   "creditos": 4,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT03",
+   "nome": "Atividade Complementar III",
+   "creditos": 1,
+   "periodo": 3,
+   "requisitos": [
+    {
+     "sigla": "AT01",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT02",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "E06",
+   "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "E04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "E05",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E08",
+   "nome": "Eletrônica Digital Aplicada a Contadores e Sequenciadores",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "E07",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F03",
+   "nome": "Física Aplicada na Eletricidade e Eletromagnetismo",
+   "creditos": 3,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "F02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M02",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "G04",
+   "nome": "Fundamentos de Gestão de Projetos",
+   "creditos": 1,
+   "periodo": 4
+  },
+  {
+   "sigla": "M05",
+   "nome": "Cálculo Aplicado à Séries e Equações Diferenciais",
+   "creditos": 4,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "M07",
+   "nome": "Sinais e Sistemas",
+   "creditos": 4,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "M04",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M05",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "AT04",
+   "nome": "Atividade Complementar IV",
+   "creditos": 1,
+   "periodo": 4,
+   "requisitos": [
+    {
+     "sigla": "AT02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "C11",
+   "nome": "Ciência de Dados com Python",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "C06",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E03",
+   "nome": "Circuitos Elétricos com Aplicação em Filtros",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "E02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "E09",
+   "nome": "Sistemas Microcontrolados e Microprocessados",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "E07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "E08",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "F06",
+   "nome": "Eletromagnetismo",
+   "creditos": 3,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "M04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "F03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "M08",
+   "nome": "Probabilidade e Processos Estocásticos",
+   "creditos": 4,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "M04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T27",
+   "nome": "Princípios de Comunicações Analógicas e Digitais",
+   "creditos": 2,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "M07",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "AT05",
+   "nome": "Atividade Complementar V",
+   "creditos": 1,
+   "periodo": 5,
+   "requisitos": [
+    {
+     "sigla": "AT03",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT04",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "F04",
+   "nome": "Física Moderna e Quântica",
+   "creditos": 1,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "F03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "M06",
+   "nome": "Cálculo Numérico e Estatística",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "C02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T02",
+   "nome": "Redes de Dados I",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "C03",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T06",
+   "nome": "Fundamentos de Redes de Telecomunicações",
+   "creditos": 3,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "M08",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T09",
+   "nome": "Teoria da Informação e Codificação",
+   "creditos": 2,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "M08",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T12",
+   "nome": "Linhas de Transmissão e Microondas",
+   "creditos": 4,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "F06",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "E02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T21",
+   "nome": "Disciplina Eletiva I",
+   "creditos": 2,
+   "periodo": 6
+  },
+  {
+   "sigla": "T24",
+   "nome": "Projeto Integrador de Redes e Sistemas de Telecomunicações I",
+   "creditos": 2,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "E09",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "T02",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "T28",
+   "nome": "Comunicações Digitais I",
+   "creditos": 2,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "T27",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "AT06",
+   "nome": "Atividade Complementar VI",
+   "creditos": 1,
+   "periodo": 6,
+   "requisitos": [
+    {
+     "sigla": "AT04",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT05",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "C24",
+   "nome": "Inteligência Artificial",
+   "creditos": 4,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "C06",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "C11",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "E11",
+   "nome": "Processamento Digital de Sinais",
+   "creditos": 3,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "M07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T03",
+   "nome": "Redes de Dados II",
+   "creditos": 4,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "T02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T13",
+   "nome": "Eletrônica de Radiofrequência",
+   "creditos": 3,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "T12",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "E06",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T14",
+   "nome": "Antenas",
+   "creditos": 3,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "T12",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T25",
+   "nome": "Projeto Integrador de Redes e Sistemas de Telecomunicações II",
+   "creditos": 3,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "E11",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T24",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "T09",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "T29",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C11",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T29",
+   "nome": "Comunicações Digitais II",
+   "creditos": 2,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "T28",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "AT07",
+   "nome": "Atividade Complementar VII",
+   "creditos": 1,
+   "periodo": 7,
+   "requisitos": [
+    {
+     "sigla": "AT05",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT06",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "A02",
+   "nome": "Controle de Sistemas Dinâmicos",
+   "creditos": 4,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "E03",
+     "tipo": "PRE2"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T17",
+   "nome": "Sistemas de Comunicações Móveis",
+   "creditos": 4,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "T14",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T29",
+     "tipo": "PRE2"
+    }
+   ]
+  },
+  {
+   "sigla": "T22",
+   "nome": "Disciplina Eletiva II",
+   "creditos": 2,
+   "periodo": 8
+  },
+  {
+   "sigla": "T32",
+   "nome": "Projeto Integrador de Redes e Sistemas de Telecomunicações III",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "T03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T17",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "T34",
+   "nome": "Redes de Telecomunicações",
+   "creditos": 4,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "T29",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T02",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T35",
+   "nome": "Sistemas de Radioenlaces Digitais",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "T14",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T28",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "T36",
+   "nome": "Sistemas de Comunicações Ópticas",
+   "creditos": 2,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "F02",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "F04",
+     "tipo": "PRE1"
+    }
+   ]
+  },
+  {
+   "sigla": "AT08",
+   "nome": "Atividade Complementar VIII",
+   "creditos": 1,
+   "periodo": 8,
+   "requisitos": [
+    {
+     "sigla": "AT06",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT07",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "EST1",
+   "nome": "Estágio Supervisionado",
+   "creditos": 0,
+   "periodo": 9
+  },
+  {
+   "sigla": "H01",
+   "nome": "Administração",
+   "creditos": 2,
+   "periodo": 9
+  },
+  {
+   "sigla": "H04",
+   "nome": "Ciências do Ambiente",
+   "creditos": 4,
+   "periodo": 9
+  },
+  {
+   "sigla": "T33",
+   "nome": "Projeto Integrador de Redes e Sistemas de Telecomunicações IV",
+   "creditos": 2,
+   "periodo": 9,
+   "requisitos": [
+    {
+     "sigla": "T34",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "AT09",
+   "nome": "Atividade Complementar IX",
+   "creditos": 1,
+   "periodo": 9,
+   "requisitos": [
+    {
+     "sigla": "AT07",
+     "tipo": "PRE1"
+    },
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "H02",
+   "nome": "Economia",
+   "creditos": 2,
+   "periodo": 10
+  },
+  {
+   "sigla": "TCC",
+   "nome": "Trabalho de Conclusão de Curso I",
+   "creditos": 2,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "T21",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T13",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T33",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E11",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T25",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T24",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "A02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T22",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT10",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C24",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T36",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T37",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "G04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T27",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T14",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T29",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT09",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "H04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "Q01",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M02",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "F04",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T12",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT07",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT03",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T28",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T17",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T34",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T35",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E06",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T32",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "C11",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M05",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "E08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "M03",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "T37",
+   "nome": "Segurança em Redes e Sistemas de Telecomunicações",
+   "creditos": 2,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "T17",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "T34",
+     "tipo": "CO"
+    }
+   ]
+  },
+  {
+   "sigla": "AT10",
+   "nome": "Atividade Complementar X",
+   "creditos": 1,
+   "periodo": 10,
+   "requisitos": [
+    {
+     "sigla": "AT08",
+     "tipo": "CO"
+    },
+    {
+     "sigla": "AT09",
+     "tipo": "CO"
+    }
+   ]
+  }
+ ]
+}
