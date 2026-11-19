@@ -1,0 +1,608 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gradua//Prazos do Inatel//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prazos do Inatel
+X-WR-CALDESC:Prazos do Inatel\, pelo Gradua.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:gradua-prazo-2026-1-matricula@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260125
+SUMMARY:Matrícula 2026/1
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matrícula de 2026/1 começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-1-alteracao@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260222
+SUMMARY:Inclusão e exclusão de matérias 2026/1
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inclusão e exclusão de matérias começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-1-desistencia@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Último dia: desistência e trancamento 2026/1
+DESCRIPTION:Desistiu? No Gradua\, use Desistir da disciplina no menu ⋮ da
+  matéria\, no Horário. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Último dia para desistir: 25/05
+TRIGGER:-PT3720M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-1-notas@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Notas de 2026/1: encerrar o semestre no Gradua
+DESCRIPTION:Em Semestre › Notas\, Encerrar o semestre passa os resultados
+  para a Grade. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notas de 2026/1 saem até hoje
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-2-matricula@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+SUMMARY:Matrícula 2026/2
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matrícula de 2026/2 começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-2-alteracao@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260809
+SUMMARY:Inclusão e exclusão de matérias 2026/2
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inclusão e exclusão de matérias começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-2-desistencia@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Último dia: desistência e trancamento 2026/2
+DESCRIPTION:Desistiu? No Gradua\, use Desistir da disciplina no menu ⋮ da
+  matéria\, no Horário. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Último dia para desistir: 23/11
+TRIGGER:-PT3720M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2026-2-notas@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Notas de 2026/2: encerrar o semestre no Gradua
+DESCRIPTION:Em Semestre › Notas\, Encerrar o semestre passa os resultados
+  para a Grade. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notas de 2026/2 saem até hoje
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-1-matricula@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270131
+SUMMARY:Matrícula 2027/1
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matrícula de 2027/1 começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-1-troca_turmas@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270219
+SUMMARY:Troca de turmas 2027/1
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Troca de turmas começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-1-alteracao@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270221
+SUMMARY:Inclusão e exclusão de matérias 2027/1
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inclusão e exclusão de matérias começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-1-desistencia@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Último dia: desistência e trancamento 2027/1
+DESCRIPTION:Desistiu? No Gradua\, use Desistir da disciplina no menu ⋮ da
+  matéria\, no Horário. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Último dia para desistir: 31/05
+TRIGGER:-PT3720M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-1-notas@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Notas de 2027/1: encerrar o semestre no Gradua
+DESCRIPTION:Em Semestre › Notas\, Encerrar o semestre passa os resultados
+  para a Grade. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notas de 2027/1 saem até hoje
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-2-matricula@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270725
+SUMMARY:Matrícula 2027/2
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matrícula de 2027/2 começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-2-alteracao@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270801
+SUMMARY:Inclusão e exclusão de matérias 2027/2
+DESCRIPTION:Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inclusão e exclusão de matérias começa amanhã
+TRIGGER:-PT840M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-2-desistencia@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:Último dia: desistência e trancamento 2027/2
+DESCRIPTION:Desistiu? No Gradua\, use Desistir da disciplina no menu ⋮ da
+  matéria\, no Horário. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Último dia para desistir: 22/11
+TRIGGER:-PT3720M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-prazo-2027-2-notas@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:Notas de 2027/2: encerrar o semestre no Gradua
+DESCRIPTION:Em Semestre › Notas\, Encerrar o semestre passa os resultados
+  para a Grade. Do Gradua.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Notas de 2027/2 saem até hoje
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-3@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Conferir faltas no Portal (fevereiro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de fevereiro já devem estar 
+ lançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-4@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Conferir faltas no Portal (março)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de março já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-5@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Conferir faltas no Portal (abril)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de abril já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-6@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Conferir faltas no Portal (maio)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de maio já devem estar lanç
+ adas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-7@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Conferir faltas no Portal (junho)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de junho já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-8@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Conferir faltas no Portal (julho)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de julho já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-9@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Conferir faltas no Portal (agosto)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de agosto já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-10@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Conferir faltas no Portal (setembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de setembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-11@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Conferir faltas no Portal (outubro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de outubro já devem estar la
+ nçadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2026-12@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Conferir faltas no Portal (novembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de novembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-1@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Conferir faltas no Portal (dezembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de dezembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-3@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Conferir faltas no Portal (fevereiro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de fevereiro já devem estar 
+ lançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-4@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Conferir faltas no Portal (março)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de março já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-5@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Conferir faltas no Portal (abril)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de abril já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-6@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Conferir faltas no Portal (maio)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de maio já devem estar lanç
+ adas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-7@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Conferir faltas no Portal (junho)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de junho já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-8@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Conferir faltas no Portal (julho)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de julho já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-9@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Conferir faltas no Portal (agosto)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de agosto já devem estar lan
+ çadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-10@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Conferir faltas no Portal (setembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de setembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-11@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Conferir faltas no Portal (outubro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de outubro já devem estar la
+ nçadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2027-12@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Conferir faltas no Portal (novembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de novembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gradua-portal-2028-1@gradua
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:Conferir faltas no Portal (dezembro)
+DESCRIPTION:Se algo estiver errado\, peça revisão até o 7º dia útil do
+  mês.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Confira suas faltas no Portal: as de dezembro já devem estar l
+ ançadas.
+TRIGGER:PT600M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

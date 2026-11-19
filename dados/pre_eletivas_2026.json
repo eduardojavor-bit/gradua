@@ -1,0 +1,8883 @@
+{
+ "fonte": "Disciplinas Pré-Eletivas Oferecidas - Pré e Co-Requisitos, inatel.br/estudante/documents/pre-eletivas-eng-<curso>-2026.pdf (lidas em 2026-11-13)",
+ "ano": 2026,
+ "curriculos": {
+  "GEA-4.1": [
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEA-4.2": [
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEA-5.1": [
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C06",
+    "nome": "Programação Orientada a Objetos com Java",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "E10",
+    "nome": "Desenho",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L01",
+    "nome": "Análise de Sistemas Elétricos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "L02",
+    "nome": "Transmissão e Distribuição de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L03",
+    "nome": "Geração de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L04",
+    "nome": "Proteção de Sistemas Elétricos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L05",
+    "nome": "Qualidade de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L06",
+    "nome": "Subestações Elétricas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEA-5.2": [
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C06",
+    "nome": "Programação Orientada a Objetos com Java",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "L01",
+    "nome": "Análise de Sistemas Elétricos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "L02",
+    "nome": "Transmissão e Distribuição de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L03",
+    "nome": "Geração de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L04",
+    "nome": "Proteção de Sistemas Elétricos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L05",
+    "nome": "Qualidade de Energia Elétrica",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "L06",
+    "nome": "Subestações Elétricas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A06",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "L01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEB-6.1": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C213",
+    "nome": "Sistemas Embarcados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "B215",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E205",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E206",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E209",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M007",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C216",
+    "nome": "Sistemas Distribuídos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C012",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C125",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEB-6.2": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C213",
+    "nome": "Sistemas Embarcados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "B215",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E205",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E206",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E209",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M007",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C216",
+    "nome": "Sistemas Distribuídos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C012",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C125",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEB-8.1": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A04",
+    "nome": "Circuitos Trifásicos e Magnéticos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A06",
+    "nome": "Máquinas e Comandos Elétricos",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M09",
+    "nome": "Otimização",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEB-8.2": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A04",
+    "nome": "Circuitos Trifásicos e Magnéticos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A06",
+    "nome": "Máquinas e Comandos Elétricos",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M09",
+    "nome": "Otimização",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEC-7.1": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEC-7.2": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEC-9.1": [
+   {
+    "sigla": "A02",
+    "nome": "Controle de Sistemas Dinâmicos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B14",
+    "nome": "Processamento de Imagens Médicas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E11",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B16",
+    "nome": "Informática Médica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T02",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E03",
+    "nome": "Circuitos Elétricos com Aplicação em Filtros",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E10",
+    "nome": "Desenho",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E11",
+    "nome": "Processamento Digital de Sinais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S01",
+    "nome": "Paradigmas da Programação",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S02",
+    "nome": "Banco de Dados II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S06",
+    "nome": "Engenharia de Produto de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "S07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C14",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T14",
+    "nome": "Antenas",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "T12",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T29",
+    "nome": "Comunicações Digitais II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T28",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEC-9.2": [
+   {
+    "sigla": "A02",
+    "nome": "Controle de Sistemas Dinâmicos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B14",
+    "nome": "Processamento de Imagens Médicas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E11",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B16",
+    "nome": "Informática Médica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T02",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E03",
+    "nome": "Circuitos Elétricos com Aplicação em Filtros",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E10",
+    "nome": "Desenho",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E11",
+    "nome": "Processamento Digital de Sinais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S01",
+    "nome": "Paradigmas da Programação",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S02",
+    "nome": "Banco de Dados II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S06",
+    "nome": "Engenharia de Produto de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "S07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C14",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T14",
+    "nome": "Antenas",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "T12",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "T28",
+    "nome": "Comunicações Digitais I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T27",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T29",
+    "nome": "Comunicações Digitais II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T28",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEL-1.1": [
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEL-1.2": [
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P108",
+    "nome": "Otimização II",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M003",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M210",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "S107",
+    "nome": "Gerência de Configuração e Evolução de Software",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "C206",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEL-2.1": [
+   {
+    "sigla": "A09",
+    "nome": "Identificação de Sistemas Dinâmicos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A02",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A12",
+    "nome": "Controle e Sistemas Inteligentes Aplicados aos Conceitos da Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "A07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "A11",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A13",
+    "nome": "Fundamentos de Robótica Industrial Aplicado aos Conceitos da Indústria 4.0",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A12",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A14",
+    "nome": "Sistemas de Controle Moderno e Avançado Aplicado aos Conceitos da Indústria 4.0",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A08",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "A09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A15",
+    "nome": "Padrões de Comunicação Aplicados à Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "A03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "A05",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "A07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C06",
+    "nome": "Programação Orientada a Objetos com Java",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEL-2.2": [
+   {
+    "sigla": "A09",
+    "nome": "Identificação de Sistemas Dinâmicos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A02",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A12",
+    "nome": "Controle e Sistemas Inteligentes Aplicados aos Conceitos da Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "A07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "A11",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A13",
+    "nome": "Fundamentos de Robótica Industrial Aplicado aos Conceitos da Indústria 4.0",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A08",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "A12",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A14",
+    "nome": "Sistemas de Controle Moderno e Avançado Aplicado aos Conceitos da Indústria 4.0",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "A08",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "A09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A15",
+    "nome": "Padrões de Comunicação Aplicados à Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "A03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "A05",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "A07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B13",
+    "nome": "Instalações e Máquinas Elétricas no Ambiente Hospitalar",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C06",
+    "nome": "Programação Orientada a Objetos com Java",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C22",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T03",
+    "nome": "Redes de Dados II",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "T02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T12",
+    "nome": "Linhas de Transmissão e Microondas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M08",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEP-1.1": [
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEP-1.2": [
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C115",
+    "nome": "Conceitos e Tecnologias para Dispositivos Conectados",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T106",
+    "nome": "Gerência, QoS e Segurança em Redes",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "T202",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEP-3.1": [
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E02",
+    "nome": "Circuitos Elétricos em Corrente Alternada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E05",
+    "nome": "Eletrônica Analógica Transistorizada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E06",
+    "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E08",
+    "nome": "Eletrônica Digital Aplicada à Contadores e Sequenciadores",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E09",
+    "nome": "Sistemas Microcontrolados e Microprocessados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M07",
+    "nome": "Sinais e Sistemas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M05",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S01",
+    "nome": "Paradigmas da Programação",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GEP-3.2": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E02",
+    "nome": "Circuitos Elétricos em Corrente Alternada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E05",
+    "nome": "Eletrônica Analógica Transistorizada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E06",
+    "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E08",
+    "nome": "Eletrônica Digital Aplicada à Contadores e Sequenciadores",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E09",
+    "nome": "Sistemas Microcontrolados e Microprocessados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E08",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M07",
+    "nome": "Sinais e Sistemas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M05",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GES-1.1": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "E205",
+    "nome": "Eletrônica Analógica II",
+    "creditos": 3,
+    "requisitos": []
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GES-1.2": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "E205",
+    "nome": "Eletrônica Analógica II",
+    "creditos": 3,
+    "requisitos": []
+   },
+   {
+    "sigla": "G006",
+    "nome": "Gestão de Vendas Complexas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G011",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "G224",
+    "nome": "Métodos Ágeis de Gestão de Projetos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "G008",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GES-3.1": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "E02",
+    "nome": "Circuitos Elétricos em Corrente Alternada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E04",
+    "nome": "Eletrônica Analógica para Projetos de Fontes de Alimentação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E05",
+    "nome": "Eletrônica Analógica Transistorizada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E06",
+    "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M07",
+    "nome": "Sinais e Sistemas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M05",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M11",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M11",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M11",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GES-3.2": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B02",
+    "nome": "Bioquímica",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "Q01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "E02",
+    "nome": "Circuitos Elétricos em Corrente Alternada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E04",
+    "nome": "Eletrônica Analógica para Projetos de Fontes de Alimentação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E05",
+    "nome": "Eletrônica Analógica Transistorizada",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "E06",
+    "nome": "Eletrônica Analógica com Aplicações em Amplificador Operacional",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F05",
+    "nome": "Mecânica dos sólidos e Resistências dos Materiais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "F01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "F06",
+    "nome": "Eletromagnetismo",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F03",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M07",
+    "nome": "Sinais e Sistemas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M05",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "T06",
+    "nome": "Fundamentos de Redes de Telecomunicações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "M11",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T09",
+    "nome": "Teoria da Informação e Codificação",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M11",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "T27",
+    "nome": "Princípios de Comunicações Analógicas e Digitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M11",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "X001",
+    "nome": "Telecomunicações - Conceitos e Tecnologias",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X002",
+    "nome": "Sistemas de TV Digital",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X003",
+    "nome": "Introdução às Comunicações via Satélite",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X005",
+    "nome": "Redes Ópticas",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X008",
+    "nome": "Sistemas de Comunicações Digitais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "X001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GET-9.1": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B215",
+    "nome": "Inteligência Artificial e Redes Neurais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C126",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C213",
+    "nome": "Sistemas Embarcados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C210",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E205",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E206",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E209",
+      "tipo": "PRE1"
+     }
+    ],
+    "requisitosCortados": true
+   },
+   {
+    "sigla": "C216",
+    "nome": "Sistemas Distribuídos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "T107",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GET-9.2": [
+   {
+    "sigla": "A013",
+    "nome": "Manutenção Industrial, Normalização e Certificações",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E202",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B010",
+    "nome": "Radiações, Física Médica e Medicina Nuclear",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "F004",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B013",
+    "nome": "Metrologia e Normas ANVISA",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "B208",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "B215",
+    "nome": "Inteligência Artificial e Redes Neurais",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C126",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M003",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C213",
+    "nome": "Sistemas Embarcados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C210",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "E205",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E206",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E209",
+      "tipo": "PRE1"
+     }
+    ],
+    "requisitosCortados": true
+   },
+   {
+    "sigla": "C216",
+    "nome": "Sistemas Distribuídos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "T107",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "T202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "M210",
+    "nome": "Otimização I",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M109",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P003",
+    "nome": "Planejamento Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "H001",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C103",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C202",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GET-12.1": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A04",
+    "nome": "Circuitos Trifásicos e Magnéticos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A06",
+    "nome": "Máquinas e Comandos Elétricos",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E10",
+    "nome": "Desenho",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P12",
+    "nome": "Mercado Financeiro e de Capitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P13",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C11",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ],
+  "GET-12.2": [
+   {
+    "sigla": "A03",
+    "nome": "Sistemas Hidro-Pneumáticos",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "E02",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F01",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A04",
+    "nome": "Circuitos Trifásicos e Magnéticos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "F06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "A05",
+    "nome": "Instrumentação Industrial",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "E06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "A06",
+    "nome": "Máquinas e Comandos Elétricos",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "A04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "A16",
+    "nome": "Instalações Elétricas",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E04",
+      "tipo": "PRE2"
+     },
+     {
+      "sigla": "M06",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "B03",
+    "nome": "Anatomia Humana",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "B06",
+    "nome": "Transdução de Sinais Biomédicos",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "E03",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C04",
+    "nome": "Algoritmos e Estruturas de Dados III",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C05",
+    "nome": "Linguagens de Programação e Compiladores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C07",
+    "nome": "Banco de Dados",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C08",
+    "nome": "Arquiteturas de Computadores",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "E09",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "C09",
+    "nome": "Computação Gráfica e Multimídia",
+    "creditos": 6,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "CO"
+     },
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C12",
+    "nome": "Sistemas Operacionais",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "C13",
+    "nome": "Sistemas Embarcados",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "E05",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E06",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E09",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "M07",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "C14",
+    "nome": "Engenharia de Software",
+    "creditos": 5,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "E10",
+    "nome": "Desenho",
+    "creditos": 1,
+    "requisitos": [
+     {
+      "sigla": "E01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "M10",
+    "nome": "Matemática Discreta",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE2"
+     }
+    ]
+   },
+   {
+    "sigla": "P02",
+    "nome": "Empreendedorismo e Inovação",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P03",
+    "nome": "Engenharia Econômica",
+    "creditos": 4,
+    "requisitos": []
+   },
+   {
+    "sigla": "P04",
+    "nome": "Gestão da Segurança da Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P05",
+    "nome": "Comunicação Empresarial",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P06",
+    "nome": "Engenharia da Qualidade",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "H01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P07",
+    "nome": "Métodos de Gestão de Projetos",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "G04",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P09",
+    "nome": "Sistemas de Produção",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "P06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P10",
+    "nome": "Administração Financeira",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P11",
+    "nome": "Desenvolvimento Organizacional",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P12",
+    "nome": "Mercado Financeiro e de Capitais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P13",
+      "tipo": "CO"
+     }
+    ]
+   },
+   {
+    "sigla": "P13",
+    "nome": "Contabilidade de Custos Empresariais",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "M01",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P15",
+    "nome": "Administração de Marketing",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P18",
+    "nome": "Indústria 4.0",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E01",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E04",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "E07",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P19",
+    "nome": "Sistemas de Informação",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "P20",
+    "nome": "Design Estratégico",
+    "creditos": 2,
+    "requisitos": [
+     {
+      "sigla": "P02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "P24",
+    "nome": "Normatização Ambiental",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "S03",
+    "nome": "Arquiteturas de Software",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C06",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S05",
+    "nome": "Interação Homem Máquina",
+    "creditos": 4,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "S07",
+    "nome": "Qualidade, Gerência de Config e Evolução de Software",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C11",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X004",
+    "nome": "Redes Industriais",
+    "creditos": 2,
+    "requisitos": []
+   },
+   {
+    "sigla": "X006",
+    "nome": "Smart Cities",
+    "creditos": 1,
+    "requisitos": []
+   },
+   {
+    "sigla": "X007",
+    "nome": "Desenvolvimento Web",
+    "creditos": 3,
+    "requisitos": [
+     {
+      "sigla": "C02",
+      "tipo": "PRE1"
+     },
+     {
+      "sigla": "C03",
+      "tipo": "PRE1"
+     }
+    ]
+   },
+   {
+    "sigla": "X010",
+    "nome": "Direito Digital",
+    "creditos": 2,
+    "requisitos": []
+   }
+  ]
+ }
+}

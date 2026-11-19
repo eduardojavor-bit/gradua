@@ -1,0 +1,689 @@
+{
+  "versoes": [
+    {
+      "versao": "45.1 Beta",
+      "versionCode": 116,
+      "itens": [
+        {
+          "texto": "Faltas: o total do Portal vale até o fim do mês anterior. As faltas do mês atual, inclusive a de hoje, continuam contando.",
+          "destino": "NOTAS"
+        },
+        {
+          "texto": "Aviso de aula com antecedência longa: a aula depois de um intervalo grande (como o almoço) tem aviso próprio.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Atividades complementares, Fetin, CP e TR: ao encerrar o semestre e na Grade, só Aprovada ou Reprovada.",
+          "destino": "GRADE"
+        },
+        {
+          "texto": "Várias correções: notas da vez anterior, plano só com a Fetin, ingresso ao trocar de curso, TCC na Grade e textos."
+        }
+      ]
+    },
+    {
+      "versao": "45.0 Beta",
+      "versionCode": 115,
+      "itens": [
+        {
+          "texto": "Na Grade, a situação da matéria agora é em duas perguntas: se você está fazendo agora e como foi antes (passei, reprovei por nota ou por falta, desisti).",
+          "destino": "GRADE"
+        },
+        {
+          "texto": "A legenda da Grade usa palavras inteiras: Cursada s/ aprovação virou Reprovada por nota."
+        },
+        {
+          "texto": "Quando você entrou no curso abre em tela cheia, com as opções alinhadas, e as ações das telas viraram botões."
+        }
+      ]
+    },
+    {
+      "versao": "44.0 Beta",
+      "versionCode": 114,
+      "itens": [
+        {
+          "texto": "Dá para planejar a matrícula antes do resultado: o plano supõe se você passa em cada matéria em curso, pelas suas notas.",
+          "destino": "MATRICULA"
+        },
+        {
+          "texto": "Em Mudar o resultado, troque entre Passo e Reprovo para ver como fica o plano nos dois casos."
+        },
+        {
+          "texto": "Ao encerrar o semestre, o plano mostra o que o resultado mudou e se atualiza com um toque."
+        }
+      ]
+    },
+    {
+      "versao": "43.0 Beta",
+      "versionCode": 113,
+      "itens": [
+        {
+          "texto": "A aula do dia mostra se tem Prova, Trabalho ou outra entrega daquela matéria, como uma etiqueta no cartão.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "No Horário, as setas mudam de semana: dá para ver as provas e os trabalhos das próximas semanas."
+        },
+        {
+          "texto": "As faltas agora são contadas em aulas: faltar um dia de 1h40 são 2 aulas."
+        }
+      ]
+    },
+    {
+      "versao": "42.1 Beta",
+      "versionCode": 112,
+      "itens": [
+        {
+          "texto": "Com a letra do celular bem grande, as barras, os dias e os números da formatura não se cortam mais."
+        },
+        {
+          "texto": "Textos e botões mais fáceis de ler e de tocar, também no tema escuro."
+        }
+      ]
+    },
+    {
+      "versao": "42.0 Beta",
+      "versionCode": 111,
+      "itens": [
+        {
+          "texto": "Anos, créditos e faltas do Portal agora são escolhidos numa roda, como no despertador: é só rolar.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "O aviso antes da aula pode ser de qualquer tempo, de 5 min a 3 h 55, em duas rodas: horas e minutos."
+        },
+        {
+          "texto": "A aula que está acontecendo tem o AGORA piscando, como uma transmissão ao vivo.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "41.1 Beta",
+      "versionCode": 110,
+      "itens": [
+        {
+          "texto": "O app abre mais rápido: os horários das turmas e as pré-eletivas só são lidos quando você usa essas telas."
+        }
+      ]
+    },
+    {
+      "versao": "41.0 Beta",
+      "versionCode": 109,
+      "itens": [
+        {
+          "texto": "As faltas de cada matéria agora ficam no Horário, junto do Faltei de cada aula.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "No Início, as próximas entregas entraram no cartão Seu semestre, e o cartão da formatura ficou menor."
+        },
+        {
+          "texto": "As Configurações viraram uma lista: cada item mostra o valor atual e abre só a edição dele. O ingresso agora muda por lá.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "No Android, o aviso de versão nova ficou numa linha só e continua até você atualizar."
+        }
+      ]
+    },
+    {
+      "versao": "40.0 Beta",
+      "versionCode": 108,
+      "itens": [
+        {
+          "texto": "O estágio (EST1) agora conta créditos e entra na previsão no semestre em que você já tiver metade do curso aprovado.",
+          "destino": "JORNADA"
+        },
+        {
+          "texto": "Fetin (FT01), Comportamento Profissional e Trilha entraram na grade do 6º período: contam no curso, mas não ocupam o limite de créditos do semestre.",
+          "destino": "GRADE"
+        },
+        {
+          "texto": "Já cumpriu algum deles? Marque como aprovada na Grade para a previsão ficar certa.",
+          "destino": "GRADE"
+        }
+      ]
+    },
+    {
+      "versao": "39.9 Beta",
+      "versionCode": 107,
+      "itens": [
+        {
+          "texto": "No Início, o cartão da formatura prevista agora mostra também o seu ano de ingresso, se está em dia e os seus créditos."
+        }
+      ]
+    },
+    {
+      "versao": "39.8 Beta",
+      "versionCode": 106,
+      "itens": [
+        {
+          "texto": "No Início, o cartão Seu tempo de curso ficou mais curto e já mostra os seus créditos aprovados, em curso e por cursar."
+        },
+        {
+          "texto": "No quadro de horário, o dia de hoje fica em azul e negrito, sem o ponto embaixo.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "39.7 Beta",
+      "versionCode": 105,
+      "itens": [
+        {
+          "texto": "A cor da entrega mostra quanto falta: vermelho forte se atrasou, vermelho para hoje e amanhã, laranja para 2 e 3 dias, amarelo até 7 dias.",
+          "destino": "ENTREGAS"
+        }
+      ]
+    },
+    {
+      "versao": "39.6 Beta",
+      "versionCode": 104,
+      "itens": [
+        {
+          "texto": "No quadro da semana, a coluna do dia de hoje fica em azul-claro, como o dia escolhido na visão por dia.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "39.5 Beta",
+      "versionCode": 103,
+      "itens": [
+        {
+          "texto": "Quadro da semana como o do Portal: uma linha por aula de 50 min; a de 1h40 aparece em dois blocos, cada um com sigla, tipo, turma e sala.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "39.4 Beta",
+      "versionCode": 102,
+      "itens": [
+        {
+          "texto": "Quadro da semana mais limpo: um horário de início e fim para cada aula, com mais espaço entre elas.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "O dia de hoje aparece em azul, com um ponto, também na escolha do dia."
+        }
+      ]
+    },
+    {
+      "versao": "39.3 Beta",
+      "versionCode": 101,
+      "itens": [
+        {
+          "texto": "Tocar no lembrete de aula abre os detalhes com Adiar 5 min, Ignorar e Ver horário. O aviso continua na barra até você responder.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Os botões do aviso de teste funcionam: Adiar traz o aviso de volta em 5 min e Ignorar tira da barra."
+        }
+      ]
+    },
+    {
+      "versao": "39.2 Beta",
+      "versionCode": 100,
+      "itens": [
+        {
+          "texto": "Aula prática com a mesma cor da matéria no quadro: a diferença fica escrita (Teórica ou Prática, turma e sala).",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "39.1 Beta",
+      "versionCode": 99,
+      "itens": [
+        {
+          "texto": "Quadro de horário com um bloco para cada aula de 1h40, com a sigla, o tipo, a turma e a sala.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "Aula prática (laboratório) num tom mais forte que a teórica, com Teórica ou Prática escrito em cada aula."
+        },
+        {
+          "texto": "Aulas de 3h20 viram duas aulas de 1h40, cada uma com o seu Faltei."
+        }
+      ]
+    },
+    {
+      "versao": "39.0 Beta",
+      "versionCode": 98,
+      "itens": [
+        {
+          "texto": "Lembrete de aula com Adiar 5 min e Ignorar direto no popup.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Se você não responder ou tirar o lembrete da barra sem querer, ele volta em 5 minutos, até 3 vezes antes da aula."
+        },
+        {
+          "texto": "Horários que não se quebram mais: cada aula numa linha, com a matéria junto do horário."
+        }
+      ]
+    },
+    {
+      "versao": "38.2 Beta",
+      "versionCode": 97,
+      "itens": [
+        {
+          "texto": "Mensagens mais curtas e diretas: sem artigos do Regulamento nem de onde vêm os dados, e os botões ⓘ só com o essencial."
+        }
+      ]
+    },
+    {
+      "versao": "38.1 Beta",
+      "versionCode": 96,
+      "itens": [
+        {
+          "texto": "Lembrete de aula mais fácil de ler: o nome da matéria numa linha e o horário, a turma e o local na linha de baixo, sem o horário quebrar."
+        }
+      ]
+    },
+    {
+      "versao": "38.0 Beta",
+      "versionCode": 95,
+      "itens": [
+        {
+          "texto": "Revisão das regras: o TCC pede todas as matérias do 1º ao 9º período e o máximo por semestre vai até 27 créditos.",
+          "destino": "MATRICULA"
+        },
+        {
+          "texto": "Passar do limite de faltas reprova: o cartão de notas avisa, a desistência não é aceita e a simulação do Início conta a matéria.",
+          "destino": "NOTAS"
+        },
+        {
+          "texto": "NP1 e NP2 diretas mantêm a regra do plano (G04, estágio e matérias com laboratório). O fim de julho já conta como 2º semestre."
+        },
+        {
+          "texto": "Matrícula avisa co-requisito em curso e não antecipa vaga de eletiva com dependência; avisos do Android mais confiáveis."
+        }
+      ]
+    },
+    {
+      "versao": "37.0 Beta",
+      "versionCode": 94,
+      "itens": [
+        {
+          "texto": "No Android, embaixo de cada aviso ligado em Configurações › Notificações, o dia e a hora do próximo, como no alarme do celular.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Revisão dos avisos: o lembrete de 5 min não some mais em celulares sem alarme exato, e uma falta não é contada duas vezes."
+        },
+        {
+          "texto": "O aviso de entrega diz o dia do prazo (\"até sexta, 13/11\") e o resumo não chega junto com o lembrete da aula."
+        }
+      ]
+    },
+    {
+      "versao": "36.0 Beta",
+      "versionCode": 93,
+      "itens": [
+        {
+          "texto": "Na vaga de eletiva da Grade (ex.: S08), Ver a lista mostra as pré-eletivas que o Inatel oferece para o seu currículo, com os requisitos.",
+          "destino": "GRADE"
+        },
+        {
+          "texto": "Estágio: a nota é a da empresa (30%) mais a do relatório (70%), sem NP3, e ele libera com metade dos créditos aprovados.",
+          "destino": "NOTAS"
+        },
+        {
+          "texto": "A Jornada mostra a partir de quando você pode se matricular no estágio.",
+          "destino": "JORNADA"
+        }
+      ]
+    },
+    {
+      "versao": "35.1 Beta",
+      "versionCode": 92,
+      "itens": [
+        {
+          "texto": "iPhone: os prazos agora são assinados no Calendário (Assinar os prazos no Calendário), com o lembrete mensal do Portal, e se atualizam sozinhos.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "iPhone: corrigido o Adicionar ao Calendário que abria uma página em branco no app da Tela de Início."
+        }
+      ]
+    },
+    {
+      "versao": "35.0 Beta",
+      "versionCode": 91,
+      "itens": [
+        {
+          "texto": "Novos planos de ensino de 2026/2 (C06, C07, F01, S05 e T03): os campos de nota seguem o plano de cada disciplina.",
+          "destino": "NOTAS"
+        },
+        {
+          "texto": "C07, F01, S05 e T03 separam teoria e laboratório: o cartão mostra o que falta em cada parte para passar direto ou na NP3."
+        },
+        {
+          "texto": "Economia (H02) agora vale também para Engenharia de Software: o plano da turma B tem o mesmo critério."
+        }
+      ]
+    },
+    {
+      "versao": "34.0 Beta",
+      "versionCode": 90,
+      "itens": [
+        {
+          "texto": "No Android, Conferir notificações mostra o que o celular está impedindo (permissão, bateria, alarme na hora certa) e manda um aviso de teste.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Se o celular segurar um aviso, o Início avisa e leva direto à conferência."
+        },
+        {
+          "texto": "Menos avisos: com o Resumo do dia ligado, os prazos e o lembrete do Portal vêm dentro do resumo da manhã."
+        }
+      ]
+    },
+    {
+      "versao": "33.1 Beta",
+      "versionCode": 89,
+      "itens": [
+        {
+          "texto": "No Android 13 ou mais novo, o Início pede para permitir as notificações quando um prazo está chegando: sem isso, os avisos não aparecem."
+        },
+        {
+          "texto": "O Gradua confere os avisos uma vez por dia e mostra o que ficou para trás em celulares que põem o app para dormir.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "33.0 Beta",
+      "versionCode": 88,
+      "itens": [
+        {
+          "texto": "Avisos dos prazos do calendário do Inatel: último dia de desistência (3 dias antes), matrícula (na véspera), relatório de estágio e fim das notas.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "No Android vêm ligados; desligue em Configurações › Notificações, seção Prazos do calendário."
+        },
+        {
+          "texto": "No iPhone, Configurações › Notificações › Adicionar prazos ao Calendário."
+        }
+      ]
+    },
+    {
+      "versao": "32.1 Beta",
+      "versionCode": 87,
+      "itens": [
+        {
+          "texto": "Menos avisos de faltas: a pergunta vem uma vez por dia, depois da última aula, só com as aulas que você ainda não marcou.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Perto do limite de faltas, o aviso vai dentro do lembrete da aula, sem notificação a mais."
+        }
+      ]
+    },
+    {
+      "versao": "32.0 Beta",
+      "versionCode": 86,
+      "itens": [
+        {
+          "texto": "No Android, avisos de faltas: no fim da aula, \"Teve aula?\" com os botões Faltei e Fui.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Aviso 1 h antes da aula de uma matéria perto do limite de faltas, e um lembrete por mês de conferir as faltas no Portal."
+        },
+        {
+          "texto": "Ligue em Configurações › Notificações, seção Faltas, ou no painel de faltas de cada matéria."
+        }
+      ]
+    },
+    {
+      "versao": "31.0 Beta",
+      "versionCode": 85,
+      "itens": [
+        {
+          "texto": "Faltas: toque em Faltei na aula de hoje, no Horário. Cada aula de 50 minutos conta como 1 aula.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "No cartão de cada matéria, em Notas: quanto ainda dá para faltar (até 25% da carga horária), com o total do Portal quando você corrigir.",
+          "destino": "NOTAS"
+        },
+        {
+          "texto": "O Início avisa quando uma matéria fica perto do limite de faltas, e o encerramento do semestre sugere Reprovada por falta se passar."
+        }
+      ]
+    },
+    {
+      "versao": "30.0 Beta",
+      "versionCode": 84,
+      "itens": [
+        {
+          "texto": "No Android, uma notificação avisa quando sai uma versão do Gradua com novidades, mesmo sem abrir o app, com o botão Baixar."
+        },
+        {
+          "texto": "Para desligar: Configurações › Notificações, seção App. Versões só com correções continuam avisadas dentro do app.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "29.0 Beta",
+      "versionCode": 83,
+      "itens": [
+        {
+          "texto": "Aviso das entregas na véspera do prazo, às 19:00 (horário à escolha), com as do mesmo dia juntas. Ligue na aba Entregas ou em Configurações › Notificações.",
+          "destino": "ENTREGAS"
+        },
+        {
+          "texto": "No Android, Marcar como entregue direto na notificação, com Desfazer."
+        },
+        {
+          "texto": "No iPhone, Adicionar ao Calendário na janela de cada entrega: o Calendário avisa na véspera."
+        }
+      ]
+    },
+    {
+      "versao": "28.0 Beta",
+      "versionCode": 82,
+      "itens": [
+        {
+          "texto": "Aviso antes das aulas: no Android, uma notificação de 5 min a 1 h antes, com o horário e o local; no iPhone, as aulas vão para o Calendário, que avisa.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "No Android, um resumo de manhã com as aulas do dia. Ligue em Configurações › Notificações.",
+          "destino": "CONFIGURACOES"
+        },
+        {
+          "texto": "Sem aviso aos domingos, nas férias e nos feriados do calendário do Inatel."
+        }
+      ]
+    },
+    {
+      "versao": "27.3 Beta",
+      "versionCode": 81,
+      "itens": [
+        {
+          "texto": "Tema em botões com sol e lua: Automático (segue o celular), Claro ou Escuro.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "27.2 Beta",
+      "versionCode": 80,
+      "itens": [
+        {
+          "texto": "Ficou mais claro informar o ano em que você entrou no curso: o app mostra em que semestre do curso você está e avisa se parecer o ano de hoje."
+        },
+        {
+          "texto": "Configurações reorganizadas: o semestre atual, que o app descobre pela data, ficou no fim, com Corrigir.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "27.1 Beta",
+      "versionCode": 79,
+      "itens": [
+        {
+          "texto": "Telas mais limpas: as instruções de como usar foram para o botão ⓘ (encerrar semestre, notas, turmas e ingresso)."
+        },
+        {
+          "texto": "Na tela de encerrar o semestre, o ⓘ explica o que acontece ao encerrar.",
+          "destino": "NOTAS"
+        }
+      ]
+    },
+    {
+      "versao": "27.0 Beta",
+      "versionCode": 78,
+      "itens": [
+        {
+          "texto": "Escolha a cor de cada matéria: toque na bolinha ao lado dela ou em ⋮ › Mudar a cor.",
+          "destino": "HORARIO"
+        },
+        {
+          "texto": "A cor fica guardada e não muda mais quando outra matéria entra ou sai do semestre."
+        },
+        {
+          "texto": "Cores mais fáceis de ver no tema escuro."
+        }
+      ]
+    },
+    {
+      "versao": "26.0 Beta",
+      "versionCode": 77,
+      "itens": [
+        {
+          "texto": "Depois de atualizar, o Início mostra o que há de novo, com um botão para abrir cada novidade."
+        },
+        {
+          "texto": "Em Configurações › Sobre o app, veja as novidades de todas as versões.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "25.0 Beta",
+      "versionCode": 76,
+      "itens": [
+        {
+          "texto": "Aviso de versão nova, com a sua versão, a nova e as novidades."
+        },
+        {
+          "texto": "Android: o botão Baixar atualização abre a página de download."
+        },
+        {
+          "texto": "Configurações › Sobre o app mostra se há atualização.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "24.1 Beta",
+      "versionCode": 75,
+      "itens": [
+        {
+          "texto": "Turma e local do horário só com as siglas do Inatel; como preencher ficou no ⓘ do formulário.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "24.0 Beta",
+      "versionCode": 74,
+      "itens": [
+        {
+          "texto": "Matrícula: sugestão de turmas sem choque de horário e prévia da semana antes de confirmar.",
+          "destino": "MATRICULA"
+        }
+      ]
+    },
+    {
+      "versao": "23.0 Beta",
+      "versionCode": 73,
+      "itens": [
+        {
+          "texto": "Turmas e professores na matrícula.",
+          "destino": "MATRICULA"
+        },
+        {
+          "texto": "No quadro de horário, escolha a turma e as aulas dela são preenchidas.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "22.4 Beta",
+      "versionCode": 72,
+      "itens": [
+        {
+          "texto": "Turma e local do horário escolhidos por toque, sem digitar.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "22.3 Beta",
+      "versionCode": 71,
+      "itens": [
+        {
+          "texto": "Erros de preenchimento mais claros: um resumo no topo e a mensagem ao lado de cada campo."
+        }
+      ]
+    },
+    {
+      "versao": "22.2 Beta",
+      "versionCode": 70,
+      "itens": [
+        {
+          "texto": "Horário: o Salvar fica sempre ativo e mostra o que falta preencher.",
+          "destino": "HORARIO"
+        }
+      ]
+    },
+    {
+      "versao": "22.1 Beta",
+      "versionCode": 69,
+      "itens": [
+        {
+          "texto": "Revisão de desempenho do app."
+        }
+      ]
+    },
+    {
+      "versao": "22.0 Beta",
+      "versionCode": 68,
+      "itens": [
+        {
+          "texto": "Tema claro, escuro ou igual ao celular, nas Configurações.",
+          "destino": "CONFIGURACOES"
+        }
+      ]
+    },
+    {
+      "versao": "21.1 Beta",
+      "versionCode": 67,
+      "itens": [
+        {
+          "texto": "Início reorganizado: cada cartão com um propósito só."
+        }
+      ]
+    },
+    {
+      "versao": "21.0 Beta",
+      "versionCode": 66,
+      "itens": [
+        {
+          "texto": "Quadro de horário do semestre, com as aulas de hoje no Início.",
+          "destino": "HORARIO"
+        }
+      ]
+    }
+  ]
+}
